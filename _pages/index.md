@@ -1,17 +1,9 @@
 ---
-title: "ここにページのタイトル"
-author: default
-permalink: /
+title: "初めてのホームページ"
+author: 中野幹太
+permalink: ああ
 ---
 
-
-
-
-
-
----
-
-以下テンプレート
 
 # 見出し1
 ## 見出し2
